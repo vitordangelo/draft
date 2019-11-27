@@ -31,13 +31,13 @@ No campo _Primary DNS IP_ preencha o endereço do servidor DNS: 1.1.1.1.
 
 ### Configurando a porta ethernet do MDVR
 
-![ConfigNanoStation](network-mdvr.png)
-
 Acesse a configuração _Network_.
+
+![ConfigNanoStation](network-mdvr.png)
 
 ![Network](network.png)
 
-> Todos os IPs inseridos nesta configuração devem ser da mesma rede que esta o roteador Wifi. Não utilizar o range de IP que acessou para configura-la.
+> Todos os IPs inseridos nesta configuração devem ser da mesma rede que esta o roteador Wifi. __Não__ utilizar o range de IP da NanoStation que acessou para configurá-la.
 
 |    Campo    |                       Informação                        |
 | :---------: | :-----------------------------------------------------: |
