@@ -1,6 +1,6 @@
 # Configuração básica
 
-> Siga o passo a passo abaixo para configurar o MDVR para gravação e conexão com o servidor V2Tech. Este processo de configuração é o mais comum.
+> Siga o passo a passo abaixo para configurar o MDVR para gravação e conexão com o servidor V2Tech. <br> Este processo de configuração é o mais comum.
 
 ## Data e Hora
 
@@ -144,3 +144,5 @@ APN Claro:
 |    APN    | claro.com.br |
 | User Name |    claro     |
 | Password  |    claro     |
+
+Com estas configurações realizadas seu equipamento já esta apto a realizar gravações.
