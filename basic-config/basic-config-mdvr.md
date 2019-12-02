@@ -10,21 +10,21 @@ _Geral/Data&Hora_
 
 !['Data e Hora'](./images/009.jpg)
 
-- Em _Formato Date_ escolha o formato da data desejado, o mais comum a ser utilizado é _D/M/A_ (dia/mês/ano).
+- Em __Formato Date__ escolha o formato da data desejado, o mais comum a ser utilizado é __D/M/A__ (dia/mês/ano).
 
-- No campo _Date_ insira a data atual (caso o dispositivo tenha GPS instalado é provavel que já tenha sido preenchido automaticamente).
+- No campo __Date__ insira a data atual (caso o dispositivo tenha GPS instalado é provavel que já tenha sido preenchido automaticamente).
 
-- Em _Fuso Tempo_ selecione GMT-03:00 ou outro caso esteja em uma região cujo fuso horário seja diferente do de Brasília.
+- Em __Fuso Tempo__ selecione GMT-03:00 ou outro caso esteja em uma região cujo fuso horário seja diferente do de Brasília.
 
-- _DST_ é referente ao horário de versão, recomendamos que mantenha em _OFF_.
+- __DST__ é referente ao horário de versão, recomendamos que mantenha em __OFF__.
 
-- _Acionar Atraso_ recomendamos que matenha o valor padrão de 5 min.
+- __Acionar Atraso__ recomendamos que matenha o valor padrão de 5 min.
 
-- _Ajuste Modo_ selecione GPS caso seu dispositivo tenha módulo GPS. Este recurso fará ajuste na data e hora automaticamente utilizando dados de GPS.
+- __Ajuste Modo__ selecione GPS caso seu dispositivo tenha módulo GPS. Este recurso fará ajuste na data e hora automaticamente utilizando dados de GPS.
 
-- A opção _Ajuste Tempo_ determina o horário que será ajustado a data/hora automaticamente pelo GPS.
+- A opção __Ajuste Tempo__ determina o horário que será ajustado a data/hora automaticamente pelo GPS.
 
-- _Modo Energia_ é uma das configurações mais importantes, caso deseje que o equipamento seja _desligado_ depois de x minutos após desligar o veículo mantenha a opção _ignição_, ajuste o tempo que deseja desligar o equipamento no campo _Atraso para desligar_ o tempo desejado.
+- __Modo Energia__ é uma das configurações mais importantes, caso deseje que o equipamento seja __desligado__ depois de x minutos após desligar o veículo mantenha a opção __ignição__, ajuste o tempo que deseja desligar o equipamento no campo __Atraso para desligar__ o tempo desejado.
 
 - Em _manutenção_ é definido o horário que o equipamento será reiniciado, recomendamos manter em **Off**.
 
@@ -38,7 +38,7 @@ _Geral/Veiculo_
 
 !['Veículo'](./images/008.jpg)
 
-- No campo _Dispositivo-num_ insira o código para identificar o equipamento no servidor.
+- No campo __Dispositivo-num__ insira o código para identificar o equipamento no servidor.
 
 ## Rede
 
@@ -48,13 +48,13 @@ _Geral/Rede_
 
 !['Rede'](./images/007.jpg)
 
-- Em _Modo Net_ altera para a opção _domain_.
+- Em __Modo Net__ altera para a opção __domain__.
 
-- No campo _Dominio_ insira o endereço do servidor: _v2servidor.ddns.net_, ao abrir o teclado para digitar o endereço, aperte o botão - no controle remoto para remover o "espaço" presente na frente da primeira letra.
+- No campo __Dominio__ insira o endereço do servidor: __v2servidor.ddns.net__, ao abrir o teclado para digitar o endereço, aperte o botão - no controle remoto para remover o "espaço" presente na frente da primeira letra.
 
-- No campo _DNS_ insira o IP: _001.001.001.001_
+- No campo __DNS__ insira o IP: __001.001.001.001__
 
-As demais informações permanecem padrão e os campos _Endereço IP, Mascara e Gateway_ são relacionados a porta RJ45 (interface ethernet).
+As demais informações permanecem padrão e os campos __Endereço IP, Mascara e Gateway__ são relacionados a porta RJ45 (interface ethernet).
 
 ## Modo Canal
 
@@ -75,10 +75,10 @@ _Recorde/Normal_
 
 !['Gravação'](./images/005.jpg)
 
-- _Recorde Tipo_ mantenha a opção _normal_.
-- _Modo Viver_ selecione quatro para aparecer os 4 canais de vídeo.
-- _Recorde Modo_ deve ser _auto_.
-- _Cobertura_ é uma opção muito importante, pois nesta configuração que é definido se um arquivo de vídeo será sob-escrito por um vídeo mais novo. Se desativado quando o cartão de memória estiver cheio as gravações serão interrompidas. Se estiver ligado e o cartão de memória encher os novos vídeos serão gravados em cima dos vídeos mais antigos (reciclagem).
+- __Recorde Tipo__ mantenha a opção __normal__.
+- __Modo Viver__ selecione quatro para aparecer os 4 canais de vídeo.
+- __Recorde Modo__ deve ser __auto__.
+- __Cobertura__ é uma opção muito importante, pois nesta configuração que é definido se um arquivo de vídeo será sob-escrito por um vídeo mais novo. Se desativado quando o cartão de memória estiver cheio as gravações serão interrompidas. Se estiver ligado e o cartão de memória encher os novos vídeos serão gravados em cima dos vídeos mais antigos (reciclagem).
 
 As demais configurações podem ser mantidas padrão como mostrado na imagem acima.
 
@@ -94,14 +94,14 @@ _Recorde/Main Code_
 
 ![Quality](./images/quality-record.png)
 
-| Campo  | Informação                                                                                                                                                                                                         |
-| ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| RECORD | Esse campo habilita a gravação de cada um dos canais. **ON** para gravação habilitada **OFF** para gravação desabilitada                                                                                           |
-| RES    | Define a resolução de gravação do canal. CH1 - CH4 - **D1,HD1,CIF,960H** CH5 - **720P,1080P** <br> É importante lembrar que quanto maior a resolução, maior será o espaço ocupado no dispositivo de armazenamento. |
-| FPS    | Selecione qual será a taxa de quadros por segundo que será gravada no vídeo. Essa é uma configuração de fluidez de imagem. Quanto maior o valor, maior será a fluidez do vídeo.                                    |
-| QUAL   | **(Valores de 1 a 8)** Essa é uma configuração de qualidade de imagem de gravação, quanto **menor** o valor, **melhor** a qualidade da imagem.                                                                     |
-| Audio  | Permite habilitar a gravação de áudio, desde que o canal selecionado esteja equipado com um microfone **ON** Habilita a função **OFF** Desabilita a função                                                         |
-| Enable | **ON** Habilita o alarme de perda de vídeo **OFF** Desabilita o alarme de perda de vídeo                                                                                                                           |
+| Campo  | Informação                                                                                                                                                                      |
+| ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| RECORD | Esse campo habilita a gravação de cada um dos canais. **ON** para gravação habilitada **OFF** para gravação desabilitada                                                        |
+| RES    | Define a resolução de gravação do canal. <br> É importante lembrar que quanto maior a resolução, maior será o espaço ocupado no dispositivo de armazenamento.                   |
+| FPS    | Selecione qual será a taxa de quadros por segundo que será gravada no vídeo. Essa é uma configuração de fluidez de imagem. Quanto maior o valor, maior será a fluidez do vídeo. |
+| QUAL   | **(Valores de 1 a 8)** Essa é uma configuração de qualidade de imagem de gravação, quanto **menor** o valor, **melhor** a qualidade da imagem.                                  |
+| Audio  | Permite habilitar a gravação de áudio, desde que o canal selecionado esteja equipado com um microfone **ON** Habilita a função **OFF** Desabilita a função                      |
+| Enable | **ON** Habilita o alarme de perda de vídeo **OFF** Desabilita o alarme de perda de vídeo                                                                                        |
 
 ## Configuração 3G
 
@@ -115,7 +115,7 @@ _Perifericos/Sem Fio_
 - **type** selecione _WCDMA_
 - **APN** insira a APN de sua operadora (veja nas tabelas abaixo)
 - **center-Num** deve ser o padrão como mostrado na imagem
-- **username** e **password** são de acordo com a sua operadora.
+- **username** e **password** são de acordo com a sua operadora (veja nas tabelas abaixo)
 
 APN VIVO:
 
