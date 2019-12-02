@@ -111,7 +111,11 @@ _Perifericos/Sem Fio_
 
 ![3G](./images/3g.png)
 
-Na opção **wirelles** selecione a opção _ON_ em **type** selecione _WCDMA_ no campo **APN** insira a APN de sua operadora (veja nas tabelas abaixo), o **center-Num** deve ser o padrão como mostrado na imagem, **username** e **password** são de acordo com a sua operadora.
+- **wirelles** selecione a opção _ON_.
+- **type** selecione _WCDMA_
+- **APN** insira a APN de sua operadora (veja nas tabelas abaixo)
+- **center-Num** deve ser o padrão como mostrado na imagem
+- **username** e **password** são de acordo com a sua operadora.
 
 APN VIVO:
 
