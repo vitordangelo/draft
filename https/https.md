@@ -2,7 +2,7 @@
 
 - Nesta etapa configuramos as zonas de DNS do domínio ao endereço **ip fixo** do servidor.
 
-O domínio utilizado neste treinamento é **v2lab.xyz**, troque este endereço para o seu domínio.
+O domínio utilizado neste treinamento é **v2techlab.xyz**, troque este endereço para o seu domínio.
 
 O serviço de gerenciamento deste domínio esta atrelado ao **GoDaddy**.
 
@@ -32,10 +32,14 @@ Ao realizar o download descompacte no diretório desejado e execute o _nginx.exe
 Neste exemplo estou utilizando um rotedor _TP-Link WR940N v2/WR941ND v5_
 
 > É necessário fazer o redirecionamento de portas para o servidor.
-> Estaremos configurando o servidor web nginx na porta 80.
-> Neste caso redirecionei as chamadas realizadas na porta 80 para o IP do servidor.
+> Estaremos configurando o servidor web nginx na porta 80 e 443.
+> Neste caso redirecionei as chamadas realizadas na porta 80 e 433 para o IP do servidor.
+
+**Após finalizar os testes remova o redirecionamento da porta 80 (http) e mantenha apenas para a porta 443 (https)**.
 
 ![Router](router.png)
+
+![Router](router-https.png)
 
 ## Teste de acesso via domínio
 
@@ -135,5 +139,67 @@ IMPORTANT NOTES:
 O certificado gerado estará no diretório:
 
 ```shell
-/etc/letsencrypt/live/servidor.v2techlab.xyz
+/etc/letsencrypt/archive/servidor.v2techlab.xyz
 ```
+
+Copie os arquivos **fullchain.pem** e **privkey.pem** e armazene no mesmo diretório que "instalou" o Nginx.
+
+# Configurando o Nginx
+
+Crie um arquivo com o nome nginx.conf na raiz do diretório com o seguinte código:
+
+```shell
+worker_processes  1;
+
+events {
+  worker_connections  1024;
+}
+
+http {
+	#include       mime.types;
+	default_type  application/octet-stream;
+	sendfile        on;
+	keepalive_timeout  65;
+
+	server {
+		listen 80 default_server;
+		listen [::]:80 default_server;
+		server_name servidor.v2techlab.xyz;
+		return 301 https://$host$request_uri;
+	}
+
+  	server {
+		listen 443 ssl;
+		server_name servidor.v2techlab.xyz;
+		ssl_certificate C:/nginx-1.17.2/cert-certbot/fullchain1.pem;
+		ssl_certificate_key C:/nginx-1.17.2/cert-certbot/privkey1.pem;
+
+		location / {
+			proxy_pass http://localhost:8080;
+		}
+	}
+}
+```
+
+> Atenção aos campos que devem ser modificados de acordo com o seu domínio.
+
+|        Campo        |                Informação                 |
+| :-----------------: | :---------------------------------------: |
+|     server_name     |   Alterar com o endereço do seu domínio   |
+|   ssl_certificate   |            Path do certificado            |
+| ssl_certificate_key |               Path da chave               |
+|     proxy_pass      | Altera a parta que utiliza no IVMS Server |
+
+## Executando o Nginx com o arquivo de configuração
+
+```shell
+.\nginx.exe -c .\nginx.conf
+```
+
+Uma dica interessante seria  configurar este script para ser executado automaticamente ao iniciar o Windows.
+
+# Certificado HTTPS
+
+Acesse o endereço de seu domínio no navegador e confira se esta acessando pelo HTTPS.
+
+![Cert](cert.png)
