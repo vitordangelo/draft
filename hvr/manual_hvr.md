@@ -93,19 +93,19 @@ Caso em outro momento, após a configuração, você queira alterar as configura
 ## - Básico
 
 As configurações básicas que podem ser feitas nessa seção, são:
-  
- | Configuração | Descrição |
-| --- | --- |
-| Nome do HVR | Define um nome para seu equipamento. <br> Para alterá-lo, clique no botão **Configurações, logo abaixo do nome exibido na tabela. |
-| Número ID do HVR| Define uma ID para o HVR. |
-| Língua | Selecione o idioma que deseja aplicar ao equipamento. |
-| Saída automática | Defina um intervalo de tempo que o menu feche após um período de inatividade. |
-| Transparência do menu | Opção que deixa o menu mais transparente. |
-| Definir a resolução | Define a resolução da saída de vídeo HDMI / VGA. **Isso não influencia a qualidade de gravação do equipamento. Apenas na visualização. |
-| Padrão TV OUT | Define o padrão do formato de vídeo. |
-| Modo de câmera | Identificação dos tipos de câmeras que serão usadas no HVR |
-| Assistente de configuração| Habilita ou Desabilita o Assistência de Configuração. |
-| Auto limpar o alarme | ... |
+
+| Configuração               | Descrição                                                                                                                                |
+| -------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| Nome do HVR                | Define um nome para seu equipamento. <br> Para alterá-lo, clique no botão \*\*Configurações, logo abaixo do nome exibido na tabela.      |
+| Número ID do HVR           | Define uma ID para o HVR.                                                                                                                |
+| Língua                     | Selecione o idioma que deseja aplicar ao equipamento.                                                                                    |
+| Saída automática           | Defina um intervalo de tempo que o menu feche após um período de inatividade.                                                            |
+| Transparência do menu      | Opção que deixa o menu mais transparente.                                                                                                |
+| Definir a resolução        | Define a resolução da saída de vídeo HDMI / VGA. \*\*Isso não influencia a qualidade de gravação do equipamento. Apenas na visualização. |
+| Padrão TV OUT              | Define o padrão do formato de vídeo.                                                                                                     |
+| Modo de câmera             | Identificação dos tipos de câmeras que serão usadas no HVR                                                                               |
+| Assistente de configuração | Habilita ou Desabilita o Assistência de Configuração.                                                                                    |
+| Auto limpar o alarme       | ...                                                                                                                                      |
 
 Também é possível configurar a **DATA E HORA** nessa seção. Para isso, clique na aba Data e Hora na parte superior da tela. <br>
 A aba **DST** é responsável por configurar o horário de verão.
@@ -113,10 +113,11 @@ A aba **DST** é responsável por configurar o horário de verão.
 ## - Exibição
 
 As configurações possíveis são: <br>
-| Configuração| Descrição |
-|---|---|
+
+| Configuração   | Descrição                                |
+| -------------- | ---------------------------------------- |
 | Canal de Áudio | Define qual canal será o canal de áudio. |
-| TV-OUT Ajustar | Ajusta a posição da tela no monitor. |
+| TV-OUT Ajustar | Ajusta a posição da tela no monitor.     |
 
 Existe, nessa janela, uma outra aba, chamada **CONFIGURAÇÃO**.
 
