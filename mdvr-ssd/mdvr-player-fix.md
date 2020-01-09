@@ -8,6 +8,8 @@ Acesse o painel de controle e clique em **Sistema**
 
 ![bits](./bits.png)
 
+Faça o download do arquivo correspondente a versão do seu Windows.
+
 [Arquivos para versão 32 Bits](https://storage.googleapis.com/v2tech/32-fix-mdvr-player.zip)
 
 [Arquivos para versão 64 Bits](https://storage.googleapis.com/v2tech/64-fix-mdvr-player.zip)
