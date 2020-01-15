@@ -5,17 +5,25 @@ Realizar o download do software [Ext2Fsd](https://storage.googleapis.com/v2tech/
 ## Passos para instalação do Ext2Fsd
 
 ![01](01.png)
+
 ![01](02.png)
+
 ![01](03.png)
+
 ![01](04.png)
+
 ![01](05.png)
+
 ![01](06.png)
 
 Após instalação execute o Ext2Fsd.
 
 ![08](08.png)
+
 ![09](09.png)
+
 ![10](10.png)
+
 ![11](11.png)
 
 Depois de "montado" o disco, acesse a pasta correspondente aos vídeos.
