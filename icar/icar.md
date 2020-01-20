@@ -46,7 +46,7 @@ ADAS - DSM <br>
 
 ## [Leitor RFID](https://www.icarvisions.com/Accessory/panic-button-for-driver-195.html)
 
-- Possibilidade de anánlise da temperatura em tempo real e gerenciar eventos de alarme quando utilizado com o IVMS Client (MDVR com conexão a internet)
+- Possibilidade de análise da temperatura em tempo real e gerenciar eventos de alarme quando utilizado com o IVMS Client (MDVR com conexão a internet)
 
 ![RFID Reader](https://i.imgur.com/JANxbfp.jpg)
 
