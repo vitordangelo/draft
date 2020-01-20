@@ -17,17 +17,17 @@ Caminhão: 5 metros de comprimento 2.10 de largura e 2.40 de altura
 (35) 98863-5764
 (35) 99752-1076
 
-![casa](http://s.quickfast.com/wandreimoveis/fotos/15329.jpg)
-![casa](http://s.quickfast.com/wandreimoveis/fotos/15328.jpg)
-![casa](http://s.quickfast.com/wandreimoveis/fotos/15327.jpg)
-![casa](http://s.quickfast.com/wandreimoveis/fotos/15326.jpg)
-![casa](http://s.quickfast.com/wandreimoveis/fotos/15325.jpg)
-![casa](http://s.quickfast.com/wandreimoveis/fotos/15324.jpg)
-![casa](http://s.quickfast.com/wandreimoveis/fotos/15323.jpg)
-![casa](http://s.quickfast.com/wandreimoveis/fotos/15322.jpg)
-![casa](http://s.quickfast.com/wandreimoveis/fotos/15321.jpg)
-![casa](http://s.quickfast.com/wandreimoveis/fotos/15320.jpg)
-![casa](http://s.quickfast.com/wandreimoveis/fotos/15319.jpg)
+![Casa](https://i.imgur.com/UzXh9RD.jpg)
+![Casa](https://i.imgur.com/3lC4HCm.jpg)
+![Casa](https://i.imgur.com/1PXmWoT.jpg)
+![Casa](https://i.imgur.com/k7YcaV4.jpg)
+![Casa](https://i.imgur.com/cJ0PY6e.jpg)
+![Casa](https://i.imgur.com/luuzade.jpg)
+![Casa](https://i.imgur.com/1hqrT4y.jpg)
+![Casa](https://i.imgur.com/6fJ8Sx0.jpg)
+![Casa](https://i.imgur.com/NIxlyy5.jpg)
+![Casa](https://i.imgur.com/D0fEL3B.jpg)
+![Casa](https://i.imgur.com/2ZuDwty.jpg)
 
     Sobrado com dois dormitórios sendo um com sacada, sala, cozinha, wc social, lávabo, lavanderia coberta, quintal aos fundos e garagem para dois carros.
 
@@ -42,26 +42,26 @@ Caminhão: 5 metros de comprimento 2.10 de largura e 2.40 de altura
 (35) 98863-5764
 (35) 99752-1076
 
-![Casa](http://s.quickfast.com/wandreimoveis/fotos/18027.jpg)
-![Casa](http://s.quickfast.com/wandreimoveis/fotos/18028.jpg)
-![Casa](http://s.quickfast.com/wandreimoveis/fotos/18029.jpg)
-![Casa](http://s.quickfast.com/wandreimoveis/fotos/18030.jpg)
-![Casa](http://s.quickfast.com/wandreimoveis/fotos/18031.jpg)
-![Casa](http://s.quickfast.com/wandreimoveis/fotos/18032.jpg)
-![Casa](http://s.quickfast.com/wandreimoveis/fotos/18026.jpg)
-![Casa](http://s.quickfast.com/wandreimoveis/fotos/18025.jpg)
-![Casa](http://s.quickfast.com/wandreimoveis/fotos/18024.jpg)
-![Casa](http://s.quickfast.com/wandreimoveis/fotos/18023.jpg)
-![Casa](http://s.quickfast.com/wandreimoveis/fotos/18022.jpg)
-![Casa](http://s.quickfast.com/wandreimoveis/fotos/18021.jpg)
-![Casa](http://s.quickfast.com/wandreimoveis/fotos/18020.jpg)
-![Casa](http://s.quickfast.com/wandreimoveis/fotos/18019.jpg)
-![Casa](http://s.quickfast.com/wandreimoveis/fotos/18018.jpg)
-![Casa](http://s.quickfast.com/wandreimoveis/fotos/18017.jpg)
-![Casa](http://s.quickfast.com/wandreimoveis/fotos/18016.jpg)
-![Casa](http://s.quickfast.com/wandreimoveis/fotos/18015.jpg)
-![Casa](http://s.quickfast.com/wandreimoveis/fotos/18014.jpg)
-![Casa](http://s.quickfast.com/wandreimoveis/fotos/18013.jpg)
+![Casa](https://i.imgur.com/6xxgyti.jpg)
+![Casa](https://i.imgur.com/ax9XNam.jpg)
+![Casa](https://i.imgur.com/i7tJtqX.jpg)
+![Casa](https://i.imgur.com/j4R9WH3.jpg)
+![Casa](https://i.imgur.com/XQDwNh7.jpg)
+![Casa](https://i.imgur.com/zSPgkdh.jpg)
+![Casa](https://i.imgur.com/jj5TPtb.jpg)
+![Casa](https://i.imgur.com/HbluVif.jpg)
+![Casa](https://i.imgur.com/jEXFO0z.jpg)
+![Casa](https://i.imgur.com/ZcDyPEs.jpg)
+![Casa](https://i.imgur.com/yZnhitO.jpg)
+![Casa](https://i.imgur.com/dOwGxxe.jpg)
+![Casa](https://i.imgur.com/ykyyCrd.jpg)
+![Casa](https://i.imgur.com/MYwDy4r.jpg)
+![Casa](https://i.imgur.com/NtZT05N.jpg)
+![Casa](https://i.imgur.com/jrH513B.jpg)
+![Casa](https://i.imgur.com/KuO89aL.jpg)
+![Casa](https://i.imgur.com/qaehgmE.jpg)
+![Casa](https://i.imgur.com/8NauCr8.jpg)
+![Casa](https://i.imgur.com/aZS3FGh.jpg)
 
     2 Suítes, 3 Banheiros, 1 Vagas, 118 m² Área Construída
 
@@ -76,15 +76,27 @@ Caminhão: 5 metros de comprimento 2.10 de largura e 2.40 de altura
 (35) 98863-5764
 (35) 99752-1076
 
-![Casa](http://s.quickfast.com/wandreimoveis/fotos/17949.jpg)
-![Casa](http://s.quickfast.com/wandreimoveis/fotos/17948.jpg)
-![Casa](http://s.quickfast.com/wandreimoveis/fotos/17947.jpg)
-![Casa](http://s.quickfast.com/wandreimoveis/fotos/17946.jpg)
-![Casa](http://s.quickfast.com/wandreimoveis/fotos/17945.jpg)
-![Casa](http://s.quickfast.com/wandreimoveis/fotos/17944.jpg)
-![Casa](http://s.quickfast.com/wandreimoveis/fotos/17943.jpg)
-![Casa](http://s.quickfast.com/wandreimoveis/fotos/17942.jpg)
-![Casa](http://s.quickfast.com/wandreimoveis/fotos/17941.jpg)
+![Casa](https://i.imgur.com/9X2wFb2.jpg)
+![Casa](https://i.imgur.com/Nk9aWBj.jpg)
+![Casa](https://i.imgur.com/PX7tNxo.jpg)
+![Casa](https://i.imgur.com/DAFvXvQ.jpg)
+![Casa](https://i.imgur.com/y2wavxP.jpg)
+![Casa](https://i.imgur.com/20Svlsm.jpg)
+![Casa](https://i.imgur.com/2NHK7Pe.jpg)
+![Casa](https://i.imgur.com/EpBlAZr.jpg)
+![Casa](https://i.imgur.com/Qjl43qz.jpg)
+![Casa](https://i.imgur.com/5F9crUv.jpg)
+![Casa](https://i.imgur.com/Hleiqgd.jpg)
+![Casa](https://i.imgur.com/2EiIv4P.jpg)
+![Casa](https://i.imgur.com/Xnn6nJP.jpg)
+![Casa](https://i.imgur.com/CtT15jK.jpg)
+![Casa](https://i.imgur.com/Zc5ggNS.jpg)
+![Casa](https://i.imgur.com/AR96F8B.jpg)
+![Casa](https://i.imgur.com/Xv3AqZH.jpg)
+![Casa](https://i.imgur.com/nO2YIbI.jpg)
+![Casa](https://i.imgur.com/aH26AJA.jpg)
+![Casa](https://i.imgur.com/Ho0yi6K.jpg)
+![Casa](https://i.imgur.com/4cmge1c.jpg)
 
     Apartamentos novos, no segundo andar, com dois dormitórios, sala, cozinha americana, wc social, lavanderia e uma vaga de garagem coberta.
     Duas unidades disponíveis, sendo uma na frente com sacada e outra no fundo.
@@ -100,13 +112,13 @@ Caminhão: 5 metros de comprimento 2.10 de largura e 2.40 de altura
 (35) 98863-5764
 (35) 99752-1076
 
-![Casa](http://s.quickfast.com/wandreimoveis/fotos/18064.jpg)
-![Casa](http://s.quickfast.com/wandreimoveis/fotos/18063.jpg)
-![Casa](http://s.quickfast.com/wandreimoveis/fotos/18062.jpg)
-![Casa](http://s.quickfast.com/wandreimoveis/fotos/18061.jpg)
-![Casa](http://s.quickfast.com/wandreimoveis/fotos/18060.jpg)
-![Casa](http://s.quickfast.com/wandreimoveis/fotos/18059.jpg)
-![Casa](http://s.quickfast.com/wandreimoveis/fotos/18058.jpg)
+![Casa](https://i.imgur.com/YVK18bj.jpg)
+![Casa](https://i.imgur.com/etvwRB5.jpg)
+![Casa](https://i.imgur.com/5tXu5wV.jpg)
+![Casa](https://i.imgur.com/1NYHAH0.jpg)
+![Casa](https://i.imgur.com/4radGTk.jpg)
+![Casa](https://i.imgur.com/M165GOh.jpg)
+![Casa](https://i.imgur.com/hO4c7AI.jpg)
 
     LINDO APTO, NOVO, COM DOIS QUARTOS, UM BANHEIRO, SALA E COZINHA CONJUGADOS E UMA VAGA DE GARAGEM COM PORTÃO ELETRÔNICO. EXCELENTE LOCALIZAÇÃO NO CENTRO. VALOR INCLUSO CONDOMINIO.
 
@@ -120,18 +132,18 @@ Caminhão: 5 metros de comprimento 2.10 de largura e 2.40 de altura
 (35) 3435-6417
 (35) 99214-0099
 
-![Casa](http://s.quickfast.com/lorenzocorretor/fotos/9910.jpg)
-![Casa](http://s.quickfast.com/lorenzocorretor/fotos/10925.jpg)
-![Casa](http://s.quickfast.com/lorenzocorretor/fotos/10928.jpg)
-![Casa](http://s.quickfast.com/lorenzocorretor/fotos/10927.jpg)
-![Casa](http://s.quickfast.com/lorenzocorretor/fotos/10926.jpg)
-![Casa](http://s.quickfast.com/lorenzocorretor/fotos/10921.jpg)
-![Casa](http://s.quickfast.com/lorenzocorretor/fotos/10924.jpg)
-![Casa](http://s.quickfast.com/lorenzocorretor/fotos/10922.jpg)
-![Casa](http://s.quickfast.com/lorenzocorretor/fotos/10920.jpg)
-![Casa](http://s.quickfast.com/lorenzocorretor/fotos/9900.jpg)
-![Casa](http://s.quickfast.com/lorenzocorretor/fotos/9899.jpg)
-![Casa](http://s.quickfast.com/lorenzocorretor/fotos/9898.jpg)
+![Casa](https://i.imgur.com/qdwdFy6.jpg)
+![Casa](https://i.imgur.com/nZspCQz.jpg)
+![Casa](https://i.imgur.com/HAhsvbB.jpg)
+![Casa](https://i.imgur.com/F6mXgya.jpg)
+![Casa](https://i.imgur.com/Re3234W.jpg)
+![Casa](https://i.imgur.com/6fcfqGV.jpg)
+![Casa](https://i.imgur.com/ODHfM8j.jpg)
+![Casa](https://i.imgur.com/Tf0TfNv.jpg)
+![Casa](https://i.imgur.com/uiZSNeh.jpg)
+![Casa](https://i.imgur.com/rGeiZws.jpg)
+![Casa](https://i.imgur.com/hTyar8C.jpg)
+![Casa](https://i.imgur.com/zPcc7lB.jpg)
 
     Excelente oportunidade de Locação, sobrado composto por 02 dormitórios, sala de estar, cozinha planejada, WC social, lavanderia e vaga de garagem coberta para 01 veículo.
 
@@ -145,13 +157,13 @@ Caminhão: 5 metros de comprimento 2.10 de largura e 2.40 de altura
 (35) 3435-6417
 (35) 99214-0099
 
-![Casa](http://s.quickfast.com/lorenzocorretor/fotos/11204.jpg)
-![Casa](http://s.quickfast.com/lorenzocorretor/fotos/11203.jpg)
-![Casa](http://s.quickfast.com/lorenzocorretor/fotos/11202.jpg)
-![Casa](http://s.quickfast.com/lorenzocorretor/fotos/11201.jpg)
-![Casa](http://s.quickfast.com/lorenzocorretor/fotos/11200.jpg)
-![Casa](http://s.quickfast.com/lorenzocorretor/fotos/11199.jpg)
-![Casa](http://s.quickfast.com/lorenzocorretor/fotos/11198.jpg)
-![Casa](http://s.quickfast.com/lorenzocorretor/fotos/11197.jpg)
+![Casa](https://i.imgur.com/iZQAH4q.jpg)
+![Casa](https://i.imgur.com/8bG6xbu.jpg)
+![Casa](https://i.imgur.com/dQ2Se06.jpg)
+![Casa](https://i.imgur.com/NxNijSG.jpg)
+![Casa](https://i.imgur.com/O7XFUIx.jpg)
+![Casa](https://i.imgur.com/9Pt5J5U.jpg)
+![Casa](https://i.imgur.com/GpLmY30.jpg)
+![Casa](https://i.imgur.com/ugI7NxT.jpg)
 
     Apartamento no 3° andar em ótima localização, composto por 2 quartos, sala de estar, cozinha, WC social, lavanderia e garagem para 01 veículo.
