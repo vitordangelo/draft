@@ -64,7 +64,7 @@ lavanderia coberta, quintal aos fundos e garagem para dois carros.
 ![Casa](https://i.imgur.com/8NauCr8.jpg)
 ![Casa](https://i.imgur.com/aZS3FGh.jpg)
 
-    2 Suítes, 3 Banheiros, 1 Vagas, 118 m² Área Construída
+2 Suítes, 3 Banheiros, 1 Vagas, 118 m² Área Construída
 
 ---
 
@@ -99,8 +99,9 @@ lavanderia coberta, quintal aos fundos e garagem para dois carros.
 ![Casa](https://i.imgur.com/Ho0yi6K.jpg)
 ![Casa](https://i.imgur.com/4cmge1c.jpg)
 
-    Apartamentos novos, no segundo andar, com dois dormitórios, sala, cozinha americana, wc social, lavanderia e uma vaga de garagem coberta.
-    Duas unidades disponíveis, sendo uma na frente com sacada e outra no fundo.
+Apartamentos novos, no segundo andar, com dois dormitórios, sala,
+cozinha americana, wc social, lavanderia e uma vaga de garagem coberta.
+Duas unidades disponíveis, sendo uma na frente com sacada e outra no fundo.
 
 ---
 
@@ -121,7 +122,9 @@ lavanderia coberta, quintal aos fundos e garagem para dois carros.
 ![Casa](https://i.imgur.com/M165GOh.jpg)
 ![Casa](https://i.imgur.com/hO4c7AI.jpg)
 
-    LINDO APTO, NOVO, COM DOIS QUARTOS, UM BANHEIRO, SALA E COZINHA CONJUGADOS E UMA VAGA DE GARAGEM COM PORTÃO ELETRÔNICO. EXCELENTE LOCALIZAÇÃO NO CENTRO. VALOR INCLUSO CONDOMINIO.
+LINDO APTO, NOVO, COM DOIS QUARTOS, UM BANHEIRO, SALA E COZINHA CONJUGADOS
+E UMA VAGA DE GARAGEM COM PORTÃO ELETRÔNICO. EXCELENTE LOCALIZAÇÃO NO CENTRO.
+VALOR INCLUSO CONDOMINIO.
 
 ---
 
@@ -146,7 +149,8 @@ lavanderia coberta, quintal aos fundos e garagem para dois carros.
 ![Casa](https://i.imgur.com/hTyar8C.jpg)
 ![Casa](https://i.imgur.com/zPcc7lB.jpg)
 
-    Excelente oportunidade de Locação, sobrado composto por 02 dormitórios, sala de estar, cozinha planejada, WC social, lavanderia e vaga de garagem coberta para 01 veículo.
+Excelente oportunidade de Locação, sobrado composto por 02 dormitórios,
+sala de estar, cozinha planejada, WC social, lavanderia e vaga de garagem coberta para 01 veículo.
 
 ---
 
@@ -167,4 +171,27 @@ lavanderia coberta, quintal aos fundos e garagem para dois carros.
 ![Casa](https://i.imgur.com/GpLmY30.jpg)
 ![Casa](https://i.imgur.com/ugI7NxT.jpg)
 
-    Apartamento no 3° andar em ótima localização, composto por 2 quartos, sala de estar, cozinha, WC social, lavanderia e garagem para 01 veículo.
+Apartamento no 3° andar em ótima localização, composto por 2 quartos,
+sala de estar, cozinha, WC social, lavanderia e garagem para 01 veículo.
+
+---
+
+# [Cod: 324](http://lorenzocorretor.com.br/imoveis/para-locacao/em-extrema/no-bairro-centro/casa-padrao/id-404.html)
+
+💰 1.200,00
+🏙 Centro
+
+(35) 3435-6417
+(35) 99214-0099
+
+![Casa](https://i.imgur.com/d6KHm4u.jpg)
+![Casa](https://i.imgur.com/XnfJGoH.jpg)
+![Casa](https://i.imgur.com/VGdzFOZ.jpg)
+![Casa](https://i.imgur.com/eBS185g.jpg)
+![Casa](https://i.imgur.com/QB8Hckp.jpg)
+![Casa](https://i.imgur.com/DOZKNQT.jpg)
+![Casa](https://i.imgur.com/eWbtqcc.jpg)
+
+Casa composta por dois dormitórios, sala de estar, cozinha, WC social,
+área de serviço coberta. O imóvel dispõe de uma pequena garagem. Local
+próximo a vários comércios, rodoviária e praça central da cidade de Extrema.
