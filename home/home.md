@@ -29,9 +29,8 @@ Caminhão: 5 metros de comprimento 2.10 de largura e 2.40 de altura
 ![Casa](https://i.imgur.com/D0fEL3B.jpg)
 ![Casa](https://i.imgur.com/2ZuDwty.jpg)
 
-```text
-Sobrado com dois dormitórios sendo um com sacada, sala, cozinha, wc social, lávabo, lavanderia coberta, quintal aos fundos e garagem para dois carros.
-```
+Sobrado com dois dormitórios sendo um com sacada, sala, cozinha, wc social, lávabo,
+lavanderia coberta, quintal aos fundos e garagem para dois carros.
 
 ---
 
