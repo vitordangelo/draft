@@ -10,6 +10,8 @@ Caminhão: 5 metros de comprimento 2.10 de largura e 2.40 de altura
 
 # [Cod: 1402](http://wandreimoveis.com.br/imoveis/para-locacao/em-extrema/no-bairro-vila-rica/casa-padrao/id-1408.html)
 
+## Bairro um pouco afastado
+
 💰 1.200,00
 🏙 VILA RICA
 
@@ -35,6 +37,8 @@ lavanderia coberta, quintal aos fundos e garagem para dois carros.
 ---
 
 # [Cod: 1619](http://wandreimoveis.com.br/imoveis/para-venda-ou-locacao/em-itapeva/no-bairro-primavera-garden/casa-padrao/id-1627.html)
+
+## Parece que é em Itapeva
 
 💰 1.300,00
 🏙 PRIMAVERA GARDEN
@@ -69,6 +73,8 @@ lavanderia coberta, quintal aos fundos e garagem para dois carros.
 ---
 
 # [Cod: 1615](http://wandreimoveis.com.br/imoveis/para-locacao/em-extrema/no-bairro-morbidelli/apartamento-padrao/id-1623.html)
+
+## Bairro bom e mais próxima de tudo
 
 💰 1.100,00
 🏙 MORBIDELLI
@@ -107,6 +113,8 @@ Duas unidades disponíveis, sendo uma na frente com sacada e outra no fundo.
 
 # [Cod: 1109](http://wandreimoveis.com.br/imoveis/para-locacao/em-extrema/no-bairro-centro/apartamento-padrao/id-1111.html)
 
+## Centro, então bem bom de morar, só tem q ver questão da rua se é muito movimentada
+
 💰 1.285,00
 🏙 CENTRO
 
@@ -129,6 +137,8 @@ VALOR INCLUSO CONDOMINIO.
 ---
 
 # [Cod: 487](http://lorenzocorretor.com.br/imoveis/para-locacao/em-extrema/no-bairro-portal-de-extrema/casa-sobrado/id-567.html)
+
+## Não sei onde esse bairro é, mas pelo mapa é bem perto do portal, então é o mais próximo da Multilaser
 
 💰 1.200,00
 🏙 Portal de Extrema
@@ -156,6 +166,8 @@ sala de estar, cozinha planejada, WC social, lavanderia e vaga de garagem cobert
 
 # [Cod: 544](http://lorenzocorretor.com.br/imoveis/para-locacao/em-extrema/no-bairro-lavapes/apartamento-padrao/id-624.html)
 
+## Um pouco afastado
+
 💰 1.050,00
 🏙 Lavapés
 
@@ -177,6 +189,8 @@ sala de estar, cozinha, WC social, lavanderia e garagem para 01 veículo.
 ---
 
 # [Cod: 324](http://lorenzocorretor.com.br/imoveis/para-locacao/em-extrema/no-bairro-centro/casa-padrao/id-404.html)
+
+## Creio que sei mais ou menos onde fica, é bem localizada se for a que estou imaginando
 
 💰 1.200,00
 🏙 Centro
