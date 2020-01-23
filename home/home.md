@@ -209,3 +209,28 @@ sala de estar, cozinha, WC social, lavanderia e garagem para 01 veículo.
 Casa composta por dois dormitórios, sala de estar, cozinha, WC social,
 área de serviço coberta. O imóvel dispõe de uma pequena garagem. Local
 próximo a vários comércios, rodoviária e praça central da cidade de Extrema.
+
+---
+
+# [Cod: 555](http://www.lorenzocorretor.com.br/imoveis/para-locacao/em-extrema/no-bairro-centro/casa-terrea/id-635.html)
+
+💰 1.300,00
+🏙 Centro
+
+(35) 3435-6417
+(35) 99214-0099
+
+![Casa](https://i.imgur.com/ZvM1HFK.jpg)
+![Casa](https://i.imgur.com/a30UiOp.jpg)
+![Casa](https://i.imgur.com/hKPDHy9.jpg)
+![Casa](https://i.imgur.com/JNhIm5F.jpg)
+![Casa](https://i.imgur.com/9Iq8ldd.jpg)
+![Casa](https://i.imgur.com/rbJJJlw.jpg)
+![Casa](https://i.imgur.com/ot16ujQ.jpg)
+![Casa](https://i.imgur.com/vhFrjtu.jpg)
+![Casa](https://i.imgur.com/dZFcOtU.jpg)
+
+Excelente opção de imóvel no centro da cidade!
+Casa térrea e independente composta por 3 dormitórios, sala de estar,
+cozinha, WC social, lavanderia coberta e vaga de garagem coberta para 02 veículos.
+OBS: Aceita Pet.
