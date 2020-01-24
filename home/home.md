@@ -1,5 +1,7 @@
 Mudança Extrema - MG
 
+Mudança Extrema - MG
+
 # Fred
 
 +55 35 9975-8602
@@ -234,3 +236,52 @@ Excelente opção de imóvel no centro da cidade!
 Casa térrea e independente composta por 3 dormitórios, sala de estar,
 cozinha, WC social, lavanderia coberta e vaga de garagem coberta para 02 veículos.
 OBS: Aceita Pet.
+
+---
+
+# Supemercado
+
+## Uai Mart
+
+📱 11947435604
+🏠 Rua União Soviética 286
+
+![Image](https://i.imgur.com/kC6BS8I.png)
+
+## Kurihara
+
+📱 9 8422-7696
+🏠 Praça Presidente Vargas, 89
+
+![Image](https://i.imgur.com/JDv0P93.png)
+
+## Tetra
+
+📱 999649917
+🏠 R. Benjamin Constant, 175 - Centro
+
+![Image](https://i.imgur.com/liW6991.png)
+
+# Farmácia
+
+## Droganetto
+
+📱 11947435604
+
+![Image](https://i.imgur.com/SmIikXF.png)
+
+## Uai Farma
+
+📱 +55 35 9196-4272
+🏠 João Mendes, 165
+
+![Image](https://i.imgur.com/pEZ4BRE.png)
+
+## Farma Fibra
+
+📱 +55 35 8707-7640
+🏠 Rua Benjamin Constant, 272
+
+![Image](https://i.imgur.com/3duiq71.png)
+
+# Lanche
