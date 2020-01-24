@@ -239,6 +239,37 @@ OBS: Aceita Pet.
 
 ---
 
+# [Cod: 344](http://www.lorenzocorretor.com.br/imoveis/para-locacao/em-extrema/no-bairro-bela-vista/casa-terrea/id-424.html)
+
+## <span style="color: red"> Bairro Não Recomendado</span>
+
+💰 1.000,00
+🏙 Bela Vista
+
+(35) 3435-6417
+(35) 99214-0099
+
+![Casa](https://i.imgur.com/nnoTpNY.jpg)
+![Casa](https://i.imgur.com/YgSPpHb.jpg)
+![Casa](https://i.imgur.com/vXIvJjT.jpg)
+![Casa](https://i.imgur.com/rNwYwGm.jpg)
+![Casa](https://i.imgur.com/pGvaI73.jpg)
+![Casa](https://i.imgur.com/46XS8Xr.jpg)
+![Casa](https://i.imgur.com/1wYFJ9J.jpg)
+![Casa](https://i.imgur.com/5dP29Gv.jpg)
+![Casa](https://i.imgur.com/f8Zz1lt.jpg)
+![Casa](https://i.imgur.com/YEXK6oM.jpg)
+![Casa](https://i.imgur.com/1Cao9Wb.jpg)
+![Casa](https://i.imgur.com/pXFAZ2o.jpg)
+![Casa](https://i.imgur.com/SEDgOGO.jpg)
+![Casa](https://i.imgur.com/9ma3t0Y.jpg)
+![Casa](https://i.imgur.com/Iiknj89.jpg)
+
+Casa composta por 3 quartos, sendo uma suíte, sala de estar, WC social, cozinha,
+lavanderia, quintal e vaga de garagem para 1 auto.
+
+---
+
 # Supemercado
 
 ## Uai Mart
@@ -285,3 +316,40 @@ OBS: Aceita Pet.
 ![Image](https://i.imgur.com/3duiq71.png)
 
 # Lanche
+
+# Água e Gás
+
+## Ágape Disk Água – Carvão e Gelo
+
+📱 35 98831-1032
+🏠 Avenida Vereador José Ferreira, 289, Centro
+
+## Vila Rica – Gás, Água, Carvão & Acessórios
+
+📱 35 98465-3011
+🏠 Rua Pau Brasil, 433, Vila Rica
+
+##
+
+📱
+🏠
+
+##
+
+📱
+🏠
+
+##
+
+📱
+🏠
+
+##
+
+📱
+🏠
+
+##
+
+📱
+🏠
