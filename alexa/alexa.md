@@ -1,0 +1,40 @@
+# Comandos Alexa
+
+- Alexa, a que horas é o por do sol?
+- Alexa, abra Sons Ambientes
+- Alexa, amanhã vai fazer calor?
+- Alexa, bom dia
+- Alexa, cante parabéns para você
+- Alexa, cante uma música de amor
+- Alexa, coloque velas na minha lista de compras
+- Alexa, comece Som de Chuva
+- Alexa, como está a minha agenda para amanhã?
+- Alexa, conte uma piada
+- Alexa, crie um alarme para às 9 da manhã
+- Alexa, crie um lembrete
+- Alexa, faça uma chamada para o papai
+- Alexa, leia meu livro Kindle
+- Alexa, me acorde com esta música às 7am
+- Alexa, me dê as notícias esportivas
+- Alexa, me lembre de ir ao supermercado
+- Alexa, me recomenda uma receita?
+- Alexa, mostre minhas fotos
+- Alexa, onde estão os meus pedidos?
+- Alexa, quais são as notícias?
+- Alexa, qual a distância entre São Paulo e Salvador?
+- Alexa, qual a previsão do tempo para o final de semana?
+- Alexa, qual a temperatura amanhã?
+- Alexa, qual frio esperado para amanhã em Florianópolis?
+- Alexa, qual o animal mais rápido do mundo?
+- Alexa, quanto está o Euro?
+- Alexa, quantos dias faltam para 22 de dezembro?
+- Alexa, que dia do mês é hoje?
+- Alexa, que horas são em Nova Iorque?
+- Alexa, quem é Pitágoras?
+- Alexa, toca música
+- Alexa, toca música clássica
+- Alexa, toca músicas da Marília Mendonça
+- Alexa, toca músicas novas
+- Alexa, toca músicas românticas
+- Alexa, toca uma playlist de Jazz
+- Alexa, toque uma playlist de jazz
