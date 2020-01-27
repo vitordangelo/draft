@@ -329,10 +329,13 @@ lavanderia, quintal e vaga de garagem para 1 auto.
 📱 35 98465-3011
 🏠 Rua Pau Brasil, 433, Vila Rica
 
-##
+# Imobiliária
 
-📱
-🏠
+## Wandré Imóveis
+
+📱 35991268076
+🏠 Rua Benjamin Constant, 262, Centro
+🌍 https://www.wandreimoveis.com.br
 
 ##
 
