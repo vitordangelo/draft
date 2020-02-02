@@ -5,10 +5,10 @@
 - 💰 1.100,00
 - 🏙 MORBIDELLI
 
-![Casa](https://i.imgur.com/9X2wFb2.jpg)
-![Casa](https://i.imgur.com/Nk9aWBj.jpg)
 ![Casa](https://i.imgur.com/PX7tNxo.jpg)
 ![Casa](https://i.imgur.com/DAFvXvQ.jpg)
+![Casa](https://i.imgur.com/9X2wFb2.jpg)
+![Casa](https://i.imgur.com/Nk9aWBj.jpg)
 ![Casa](https://i.imgur.com/y2wavxP.jpg)
 ![Casa](https://i.imgur.com/20Svlsm.jpg)
 ![Casa](https://i.imgur.com/2NHK7Pe.jpg)
@@ -40,13 +40,13 @@ Duas unidades disponíveis, sendo uma na frente com sacada e outra no fundo.
 - 💰 1.285,00
 - 🏙 CENTRO
 
+![Casa](https://i.imgur.com/hO4c7AI.jpg)
 ![Casa](https://i.imgur.com/YVK18bj.jpg)
 ![Casa](https://i.imgur.com/etvwRB5.jpg)
 ![Casa](https://i.imgur.com/5tXu5wV.jpg)
 ![Casa](https://i.imgur.com/1NYHAH0.jpg)
 ![Casa](https://i.imgur.com/4radGTk.jpg)
 ![Casa](https://i.imgur.com/M165GOh.jpg)
-![Casa](https://i.imgur.com/hO4c7AI.jpg)
 
 LINDO APTO, NOVO, COM DOIS QUARTOS, UM BANHEIRO, SALA E COZINHA CONJUGADOS
 E UMA VAGA DE GARAGEM COM PORTÃO ELETRÔNICO. EXCELENTE LOCALIZAÇÃO NO CENTRO.
@@ -61,6 +61,7 @@ VALOR INCLUSO CONDOMINIO.
 - 💰 1.400,00
 - 🏙 ?
 
+![logo](https://imobiliariaveracruz.com.br/fotos/thumb-300120164900-0.jpg)
 ![logo](https://imobiliariaveracruz.com.br/fotos/thumb-300120164900-3.jpg)
 ![logo](https://imobiliariaveracruz.com.br/fotos/thumb-300120164900-4.jpg)
 ![logo](https://imobiliariaveracruz.com.br/fotos/thumb-300120164900-10.jpg)
@@ -72,7 +73,6 @@ VALOR INCLUSO CONDOMINIO.
 ![logo](https://imobiliariaveracruz.com.br/fotos/thumb-300120164900-2.jpg)
 ![logo](https://imobiliariaveracruz.com.br/fotos/thumb-300120164900-1.jpg)
 ![logo](https://imobiliariaveracruz.com.br/fotos/thumb-300120164900-11.jpg)
-![logo](https://imobiliariaveracruz.com.br/fotos/thumb-300120164900-0.jpg)
 
 Ótima casa com 2 quartos, sala, cozinha integrada e lavanderia coberta.
 Na cozinha está incluso gabinete, cooKtop e forno elétrico.
