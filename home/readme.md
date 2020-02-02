@@ -6,3 +6,4 @@
 - ## [Supermercado](./supermercado.md)
 - ## [Farmácia](./farmacia.md)
 - ## [Água e Gás](./agua.md)
+- ## [Horario Ônibus](./bus.md)
