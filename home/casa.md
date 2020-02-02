@@ -1,6 +1,6 @@
-# [Cod: 385](#Cod:-385)
+# [Cod: 385](#Cod-385)
 
-# [Cod: 1109](#Cod:-1109)
+# [Cod: 1109](#Cod-1109)
 
 # [Cod: 255](#Cod-255)
 
@@ -8,7 +8,7 @@
 
 ---
 
-# Cod: 385
+# Cod 385
 
 - [Site](http://www.imobiliariacantinhodeminas.com.br/imoveis/para-locacao/em-extrema/no-bairro-morbidelli/apartamento-padrao/id-385.html)
 
@@ -45,7 +45,7 @@ Duas unidades disponíveis, sendo uma na frente com sacada e outra no fundo.
 
 ---
 
-# Cod: 1109
+# Cod 1109
 
 - [Site](http://wandreimoveis.com.br/imoveis/para-locacao/em-extrema/no-bairro-centro/apartamento-padrao/id-1111.html)
 
