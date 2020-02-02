@@ -99,8 +99,6 @@ A casa também inclui portão eletronico.
 
 # 000
 
-- [Site](https://imobiliariaveracruz.com.br/imoveis/aluguel/casa/extrema-mg/10314#prettyPhoto)
-
 ![logo](https://i.imgur.com/XmbVtUR.png)
 
 - 💰 1.200,00
