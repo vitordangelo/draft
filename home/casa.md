@@ -1,8 +1,8 @@
-# [Cod: 385](#385)
+# [~~Cod: 385~~](#385)
 
 # [Cod: 1109](#1109)
 
-# [Cod: 255](#255)
+# [~~Cod: 255~~](#255)
 
 # [Cod: 000](#000)
 
@@ -72,7 +72,7 @@ VALOR INCLUSO CONDOMINIO.
 
 ---
 
-# 255
+# ~~255~~
 
 - [Site](https://imobiliariaveracruz.com.br/imoveis/aluguel/casa/extrema-mg/10314#prettyPhoto)
 
