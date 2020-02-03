@@ -6,9 +6,11 @@
 
 # [Cod: 000](#000)
 
+# [Cod: 166](#166)
+
 ---
 
-# 385
+# ~~385~~
 
 - [Site](http://www.imobiliariacantinhodeminas.com.br/imoveis/para-locacao/em-extrema/no-bairro-morbidelli/apartamento-padrao/id-385.html)
 
@@ -109,3 +111,25 @@ A casa também inclui portão eletronico.
 ![logo](https://i.imgur.com/ayiQ1Yf.jpg)
 ![logo](https://i.imgur.com/gvuYkGr.jpg)
 ![logo](https://i.imgur.com/qpcHE3O.jpg)
+
+---
+
+# ~~166~~
+
+- [Site](http://www.imobiliariacantinhodeminas.com.br/imoveis/para-locacao/em-extrema/no-bairro-centro/apartamento-padrao/id-166.html)
+
+![logo](https://i.imgur.com/sECoqoK.png)
+
+![Bar](https://i.imgur.com/AdEW3po.png)
+
+![166](https://i.imgur.com/xgBiyJ1.jpg)
+![166](https://i.imgur.com/zt1lOYY.jpg)
+![166](https://i.imgur.com/uqXxfpL.jpg)
+![166](https://i.imgur.com/dlLOJb1.jpg)
+![166](https://i.imgur.com/nmeQWuo.jpg)
+![166](https://i.imgur.com/kZDERID.jpg)
+![166](https://i.imgur.com/aOfbXt6.jpg)
+![166](https://i.imgur.com/88hroiT.jpg)
+
+- 💰 1.300,00
+- 🏙 Centro
