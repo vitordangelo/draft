@@ -114,7 +114,7 @@ A casa também inclui portão eletronico.
 
 ---
 
-# ~~166~~
+# 166
 
 - [Site](http://www.imobiliariacantinhodeminas.com.br/imoveis/para-locacao/em-extrema/no-bairro-centro/apartamento-padrao/id-166.html)
 
