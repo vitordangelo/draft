@@ -8,6 +8,8 @@
 
 # [Cod: 166](#166)
 
+# [Cod: 251](#251)
+
 ---
 
 # ~~385~~
@@ -132,4 +134,31 @@ A casa também inclui portão eletronico.
 ![166](https://i.imgur.com/88hroiT.jpg)
 
 - 💰 1.300,00
+- 🏙 Centro
+
+---
+
+# 251
+
+- [Site](https://imobiliariaveracruz.com.br/imoveis/aluguel/apartamento/extrema-mg/10287#prettyPhoto)
+
+![logo](https://imobiliariaveracruz.com.br/fotos/imobiliariaveracruz-logo.png)
+
+![Bar](https://i.imgur.com/4w6lrSG.png)
+
+![](https://i.imgur.com/HVfn6TK.jpg)
+![](https://i.imgur.com/243MSl9.jpg)
+![](https://i.imgur.com/jsimkCJ.jpg)
+![](https://i.imgur.com/inLdHsy.jpg)
+![](https://i.imgur.com/YcY1txT.jpg)
+![](https://i.imgur.com/oU1Ktvi.jpg)
+![](https://i.imgur.com/GeS9PF0.jpg)
+![](https://i.imgur.com/cn1DbvC.jpg)
+![](https://i.imgur.com/UGHm4FA.jpg)
+![](https://i.imgur.com/QdKanWE.jpg)
+![](https://i.imgur.com/PzmbSGh.jpg)
+![](https://i.imgur.com/CxAcpfT.jpg)
+![](https://i.imgur.com/TGI2V1l.jpg)
+
+- 💰 1.250,00
 - 🏙 Centro
