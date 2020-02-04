@@ -47,3 +47,7 @@ Depois de "montado" o disco, acesse a pasta correspondente aos vídeos.
 ![11](16.png)
 
 Caso tenha conseguido acessar a pasta do HD, acesse o MDVR Player e faça o procedimento padrão de visualização das imagens.
+
+![11](17.png)
+
+![11](18.png)
