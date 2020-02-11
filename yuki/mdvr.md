@@ -125,3 +125,40 @@ Interface para gerenciamento da conta de usuário para configuração do MDVR.
 # Time
 
 ![Time](./time.png)
+
+Nesta parte iremos configurar os parâmetros de data e hora.
+
+![Time](./time-setup.png)
+
+- **Date Type:** Formato de data, o formato mais utilizado no Brasil é DD/MM/YY que corresponde: dia/mês/ano
+- **Time Sync:** Opção na qual o relógio será sincronizado, recomendamos usar a opção **GPS**
+- **NTP Addr:** Endereço do servidor NTP que deseja obter dados de data e hora, _caso for utilizar a sincronização via GPS ignore este campo_.
+- **DST Mode:** Ativar horário de verão
+- **Date:** Insira a data atual
+- **Time:** Horário atual
+- **Timezone:** Insira o fusorario, normalmente é utilizado GMT-3 em boa parte do território brasileiro.
+- **Port:** Porta do servidor NTP que fará consulta
+
+# Power Management
+
+Estas são configurações relacionadas ao tempo que o dispositivo deve permanecer ligado.
+
+![Power](./power.png)
+
+![Power](./power-management.png)
+
+- **Power Mode:**
+  - **Acc:** Selecione esta opção caso deseja ligar o MDVR no pós chave do veículo, nesta opção é possível configurar quantos minutos o equipamento deve permanecer ligado após desligar o veículo (Delay Off).
+  - **Timing Mode:** Nesta opção é determinado o horário que o equipamento deve ligar e desligar.
+- **Delay Off:** Insira quantos minutos deseja que o MDVR fique ligado após desligar o pós chave.
+- **PowerOn e PowerOff:** Insira o horário para ligar e desligar o equipamento, respectivamente.
+- **Red Delay:**
+- **Record:**
+- **Auto Reboot:** Opção para o equipamento reiniciar em um horário específico.
+- **Reboot time:** Horário que deseja que o equipamento seja reiniciado.
+- **LowPowerOff:**
+- **WakeUpSw:**
+
+- **Reboot**: Botao para reiniciar o dispositivo.
+
+# Parameter
