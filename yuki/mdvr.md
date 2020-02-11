@@ -31,6 +31,25 @@ Nesta tela podemos listar os vídeos gravados no cartão de memória selecionand
 - Speed: Alarme de Velocidade
 - Move: Detecção de movimento
 - Fatigue: Alerta de fadiga do motorista
-- OCC:
+- **<span style="color: red"> OCC</span>**
 
 **Disk Type**: Mídia de armazenamento que deseja realizar a busca.
+
+Clique em **Show** para listar os arquivos de vídeos gravados.
+
+![List Videos](./list-videos.png)
+
+Será mostrado todos os vídeos correspondente a data selecionada, aperte o botão <kbd>Play</kbd> para reproduzir o vídeo desejado.
+
+**<span style="color: red"> Export</span>**
+
+Descrição dos campos do resultado de busca
+
+| Campo       | Descrição                     |
+| ----------- | ----------------------------- |
+| CHN         | Canal de vídeo                |
+| Type        | Tipo de gravação              |
+| Start       | Horário de início da gravação |
+| End         | Horário de fim da gravação    |
+| Size        | Tamanho do arquivo            |
+| Record date | Data de gravação              |
